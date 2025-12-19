@@ -1,0 +1,6 @@
+{
+  "Name": "ScreenplayDemo",
+  "ProjectType": "Process",
+  "Description": "Understanding the screenplay feature",
+  "MainFile": "Main.xaml"
+}
